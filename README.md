@@ -12,4 +12,4 @@
     </ul>
   </ul>
   
- https://shop-cart-vanilla.netlify.app/ 💙
+💙 https://shop-cart-vanilla.netlify.app/ 💙
